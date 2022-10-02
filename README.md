@@ -1,4 +1,3 @@
-
 ## Property Management Portal
  
 Property management portal is a web-based java project where house owners and customers can exchange information effectively and inexpensively. This system provides a user-friendly interface, satisfying the needs of the consumers. 
@@ -79,5 +78,12 @@ Refer to zillow.com
 * Remember to respect the code honor submission policy. All written code must be original. Presenting something as one’s own work when it came from another source is plagiarism and is forbidden.
     
 * Plagiarism is a very serious thing in all American academic institutions and is guarded against vigilantly by every professor.
- 
 
+
+--- Database Thinking ----
+Tables
+- Property
+- Properties_Image
+- User
+- Roles
+- 
